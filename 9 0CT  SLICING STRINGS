@@ -1,0 +1,13 @@
+# Slicing
+a="Hello world! "
+print(a[0],'\n')
+print(a[0:5],'\n')
+print(a[0:],'\n')
+
+print()
+# Negative slicing
+print('Negative slicing\n')
+
+print(a[-4:-1],'\n')
+print(a[-6:-1],'\n')
+print()
